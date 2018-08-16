@@ -1,0 +1,30 @@
+h1{position:relative;}
+
+.wrapper{text-align:center;
+}
+
+.fixed{
+    postion: fixed;
+    background-color:grey;
+    height:50px;
+    width: 80px
+    top;0
+    left:0;
+
+}
+
+.relative{
+    position:relative;
+    background-color: #d8d4cb;
+    width:50%;
+    margin: 0 auto;
+    height: 100px;
+
+}
+
+.absolute{
+    position: absolute;
+    background-color: #8c7b55;
+    height: 50px;
+    right:-20px;
+    bottom: 0px;
